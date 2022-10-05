@@ -1,0 +1,177 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.about{
+       background-color: darkgreen;
+       border-radius: 50%;
+       width: 500px;
+       height: 500px;
+       padding-top: 2em;
+       margin-left: 19em;
+      }
+
+  .but {
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 9px rgb(11, 48, 29);
+  }
+.work{
+      background-color: orange;
+      border-radius: 50%;
+      width: 400px;
+      height: 400px;
+      padding-top: 4em;
+      margin-left: 1em;
+      position: absolute;
+      top: 10px; left: 680px; bottom: 500; right: 10px;
+     }
+   
+.abme{
+      margin: 10px;
+      padding: 10px;
+      background-color: rgb(11, 48, 29);
+      background: 50%;
+      color: rgb(0, 0, 0);
+     }
+
+
+  .logo{
+     width: 100px;
+  height: 100px;
+  border-radius: 50%;
+       box-shadow: 0 0 10px rgb(0, 0, 0);
+       padding: 0.2em;
+       background-color: white;
+       margin-bottom: 1em;
+      }
+
+  .rev{
+        width: 100px;
+        padding: 0.2em;
+        font-size: 16px;
+        text-align: center;
+        color: yellow;
+        background-color: blue;
+        border: none;
+        border-radius: 50%;
+        box-shadow: 0 2px rgb(0, 0, 0); 
+        margin: 10px; 
+      }  
+  .hobby{
+  background-color: blue;
+  border-radius: 50%;
+  
+  width: 400px;
+  height: 400px;
+  padding-top: 2em;
+  margin-left: 1em;
+  position: absolute;
+  top: 10px; left: 10; bottom: 500; right: 400;
+}
+  .swim{
+       width: 250px;
+       height: 150px;
+       box-shadow: #fff;
+       padding: 0.2em;
+       padding-top: 2em;
+       margin-left: 1em;
+       padding: 0.1em;
+       background-color: rgb(15, 15, 63);
+       
+  
+  
+
+    }
+
+   .hob{
+        width: 150px;
+        height: 100px;
+        padding: 0.2em;
+        font-size: 16px;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        background-color: yellow;
+        border: none;
+        border-radius: 50%;
+        box-shadow: 0 2px rgb(0, 0, 0); 
+        margin: 10px; 
+        font-family: cursive;
+   } 
+  
+
+
+
+ .med{
+  font-family: cursive;
+  font-style: oblique;
+}
+ .soc{
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      box-shadow: 0 0 10px rgb(10, 29, 31);
+      padding: 0.2em;
+     }
+
+
+.faceb{
+       background-color: aqua;
+       border-radius: 50%;
+       width: 200px;
+       height: 200px;
+       padding-top: 2em;
+       margin-left: 1em;
+       position: absolute;
+       top: 340px; left: 200px; bottom: 500px; right: 400px;
+       padding-left: 2em;
+      padding-top: 4em;
+      }
+
+.vkon{
+      background-color: aqua;
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+      padding-top: 2em;
+      margin-left: 2em;
+      position: absolute;
+      top: 340px; left: 60%;; bottom: 500px;
+      padding-left: 2em;
+      padding-top: 4em;
+      }
+      
+.sm{
+  width: 80px;
+  height: 80px;
+  padding: 0.2em;
+  font-size: 16px;
+  text-align: center;
+  color: yellow;
+  background-color: rgb(0, 0, 0);
+  border-radius: 50%;
+  margin: auto;
+}
+
+.svk{
+  width: 80px;
+  height: 80px;
+  padding: 0.2em;
+  font-size: 40px;
+  color: yellow;
+  background-color: rgb(0, 0, 0);
+  border-radius: 50%;
+  text-align: center;
+  
+  }
+ 
